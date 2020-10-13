@@ -10,5 +10,6 @@ def help(object, spacing=10, collapse=1):
         for method in methodList
         ]))
 
+
 if __name__ == '__main__':
     print(help.__doc__)
